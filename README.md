@@ -1,5 +1,5 @@
 # Minishell
-erdogancayir/Minishell
+erdogancayir/Minishell 🐚
 
 Clone the repo git clone
 
