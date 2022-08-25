@@ -30,5 +30,6 @@ $? It works like bash.
 'Ctrl-C, ctrl-D, ctrl -' gives the same result as Bash.
 About
 Minishell is the second project of the Unix branch at 42. It's a minimum viable version of a real shell. The main goal is to have a good understanding of process creation and synchronisation using the C programmming language.
+
 <img width="629" alt="Ekran Resmi 2022-08-10 ÖÖ 10 52 22" src="https://user-images.githubusercontent.com/94300378/183847185-b07d3894-e4c0-4cf6-b81a-abc5f1369c89.png">
 <img width="725" alt="Ekran Resmi 2022-08-10 ÖÖ 10 58 25" src="https://user-images.githubusercontent.com/94300378/183847457-c2eb9cff-3ab9-4d4a-a4f4-8a58594fb520.png">
