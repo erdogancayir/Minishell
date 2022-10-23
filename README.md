@@ -1,6 +1,6 @@
 # Minishell
 erdogancayir/Minishell 🐚
-
+``` I implemented my own shell in C, which supports redirections, pipes, environment variables and several ```
 Clone the repo git clone
 
 Install Readline library make install
